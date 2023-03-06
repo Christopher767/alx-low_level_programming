@@ -2,8 +2,8 @@
 
 /**
  * print_chessboard - Entry point
- * @a: arry
- * Return: Alway 0 (success)
+ * @a: array
+ * Return: Always 0 (Success)
  */
 void print_chessboard(char (*a)[8])
 {
